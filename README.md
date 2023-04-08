@@ -73,7 +73,7 @@ Ya con el entorno virtual y la instalación de los requerimientos, ejecutar desd
 
 Ejemplo:
 
-![Untitled](Reto%20Backend%20Developer%20por%20Luciano%20Chavarria%20a03cdd90cbbf420d9078937be9255653/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/62488915/230699734-db16ba0b-5859-496f-954e-b5c8d52e3172.png)
 
 - ¿Por que hay un `"code": 1000` en la respuesta?
 
@@ -92,7 +92,7 @@ Por buenas practicas este código sirve como ayuda en adición del 200 que por d
 
 ## Aplicación en acción 🚀
 
-![Untitled](Reto%20Backend%20Developer%20por%20Luciano%20Chavarria%20a03cdd90cbbf420d9078937be9255653/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/62488915/230699732-58890f35-30b2-4cf4-981f-6d0b7e9d6fd0.png)
 
 ---
 
