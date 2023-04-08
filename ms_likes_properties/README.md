@@ -26,4 +26,4 @@ SELECT COUNT(*) FROM property_likes WHERE property_id = 3;
 
 ## Diagrama MER
 
-![Untitled](Habi%20Challenge%20Part%202%2058b5f38bf6eb49a3ae66745e9100243b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/62488915/230699692-6789c4dd-45c7-49c5-a68c-7d5dce7f4024.png)
